@@ -1,2 +1,0 @@
-# shoplaravel
-thuc hanh laravel
